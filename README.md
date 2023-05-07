@@ -31,7 +31,10 @@ DEV:
   `KEY_PASSWORD`: key password of your key store file.
   `STORE_FILE`: Path of your key store file in your repository.
   `STORE_PASSWORD`: Store password of your key store file.
-* Trigger build in Github Actions
+*
+
+
+ Trigger build in Github Actions
 * Download the `aaps.zip` file in `Artifacts`
 
 ### 如果你熟悉安卓开发：
